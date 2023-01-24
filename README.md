@@ -1,5 +1,4 @@
 <br />
-![landing_etherExpress](https://user-images.githubusercontent.com/55801579/214342684-e5be0270-b5d8-4c12-b79c-b44db77a12d0.png)
 
 <div align="center">
   <h3 align="center">EtherExpress</h3>
