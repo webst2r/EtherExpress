@@ -8,10 +8,9 @@
 
   <p align="center">
     Sending ethereum through the blockchain made easy
-    <br />
-  
-    <br />
   </p>
+  <br />
+  <br />
 </div>
 
 <!-- ABOUT THE PROJECT -->
