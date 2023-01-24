@@ -1,11 +1,8 @@
 <br />
 
-<img src="https://imgur.com/a/iAwrRix" alt="Logo">
-
 <div align="center">
-  <a href="https://github.com/webst2r/EtherExpress">
-    <img src="https://imgur.com/a/iAwrRix" alt="Logo">
-  </a>
+ ![landing_etherExpress](https://user-images.githubusercontent.com/55801579/214342488-27057ba6-fbf0-4f76-9410-88ba93a3d45d.png)
+
 
   <h3 align="center">EtherExpress</h3>
 
