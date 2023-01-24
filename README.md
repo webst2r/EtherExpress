@@ -1,9 +1,7 @@
 <br />
+![landing_etherExpress](https://user-images.githubusercontent.com/55801579/214342684-e5be0270-b5d8-4c12-b79c-b44db77a12d0.png)
 
 <div align="center">
- ![landing_etherExpress](https://user-images.githubusercontent.com/55801579/214342488-27057ba6-fbf0-4f76-9410-88ba93a3d45d.png)
-
-
   <h3 align="center">EtherExpress</h3>
 
   <p align="center">
