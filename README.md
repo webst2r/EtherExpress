@@ -1,17 +1,10 @@
 <br />
-<div>
-    <img src="https://i.imgur.com/pajXNZX.png" width="400px" height="225px"/>
-    <img src="https://i.imgur.com/ApzlvEC.png" width="400px" height="225px"/>
-    <img src="https://i.imgur.com/cA2Bx1F.png" width="400px" height="225px"/>
-    <img src="https://i.imgur.com/ND6uLqg.png" width="400px" height="225px"/>
-    <img src="https://i.imgur.com/pwQZDE8.png" width="400px" height="225px"/>
-    <img src="https://i.imgur.com/7ugM1qO.png" width="400px" height="225px"/>
-    
-</div>
 
 <div align="center">
   <h3 align="center">EtherExpress</h3>
-
+  <a href="https://github.com/webst2r/EtherExpress">
+  	<img src="/client/images/landing_etherExpress.png" alt="Logo">
+  </a>
   <p align="center">
     Sending ethereum through the blockchain made easy
   </p>
@@ -29,7 +22,7 @@ EtherExpress is a web3 app built for sending ethereum through the blockchain net
 
 ## See the latest Transactions
 <div align="center">
-  <img src="/client/images/lastest_transactions.png" alt="Logo">
+  <img src="/client/images/latest_transactions.png" alt="Logo">
 </div>
 
 
