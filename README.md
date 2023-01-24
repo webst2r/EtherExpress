@@ -1,4 +1,5 @@
 <br />
+<img src="/client/images/landing_etherExpress_1_10.png" alt="Logo">
 <div align="center">
   <a href="https://github.com/webst2r/EtherExpress">
     <img src="/client/images/landing_etherExpress_1_10.png" alt="Logo">
