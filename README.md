@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/webst2r/EtherExpress">
-    <img src="/client/images/etherExpress2.png" alt="Logo">
+    <img src="/client/images/landing_etherExpress_50.png" alt="Logo">
   </a>
 
   <h3 align="center">EtherExpress</h3>
