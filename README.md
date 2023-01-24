@@ -1,4 +1,7 @@
 <br />
+
+<img src="https://imgur.com/a/iAwrRix" alt="Logo">
+
 <div align="center">
   <a href="https://github.com/webst2r/EtherExpress">
     <img src="https://imgur.com/a/iAwrRix" alt="Logo">
