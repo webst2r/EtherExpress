@@ -16,8 +16,6 @@
 
 EtherExpress is a web3 app built for sending ethereum through the blockchain network. Users can attach a Gif and a message to their transaction, making it a fun experience!
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ## See the latest Transactions
