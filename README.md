@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/webst2r/EtherExpress">
-    <img src="/client/images/etherExpress2.png" alt="Logo">
+    <img src="/client/images/landing_etherExpress.png" alt="Logo">
   </a>
 
   <h3 align="center">EtherExpress</h3>
@@ -9,7 +9,6 @@
   <p align="center">
     Sending ethereum through the blockchain made easy
   </p>
-  <br />
   <br />
 </div>
 
@@ -20,6 +19,12 @@ EtherExpress is a web3 app built for sending ethereum through the blockchain net
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
+
+## See the latest Transactions
+<div align="center">
+  <img src="/client/images/lastest_transactions.png" alt="Logo">
+</div>
 
 
 ### Built With
